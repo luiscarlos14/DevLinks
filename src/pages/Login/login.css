@@ -14,14 +14,6 @@
   max-width: 600px;
 }
 
-.form input {
-  border: 0;
-  height: 36px;
-  margin-bottom: 14px;
-  border-radius: 4px;
-  padding: 0 8px;
-  outline: none;
-}
 
 .form button {
   height: 36px;
